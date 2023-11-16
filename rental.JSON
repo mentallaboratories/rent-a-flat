@@ -1,0 +1,16 @@
+[
+    {
+      "id": "1212",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit necessitatibus veritatis ipsum tempora incidunt quo nesciunt earum provident, blanditiis, labore nulla dolore laudantium non. Laboriosam nesciunt vel aspernatur eaque ea.",
+      "isBooked": false,
+      "address": "Mr John Smith 132, My Street, Bigtown BG23 4YZ England",
+      "maxPeople": 1,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "isShower": true,
+      "isWiFi": true,
+      "isTV": true
+
+    }
+]
+    
